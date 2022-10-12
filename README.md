@@ -1,1 +1,1 @@
-# us-stock-trading-strategy-part-3
+# US-stock-trading-strategy-part-3
